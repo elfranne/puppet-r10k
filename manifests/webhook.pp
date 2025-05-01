@@ -10,7 +10,7 @@
 # @param config_path
 # @param chatops
 # @param tls
-# @param $queue
+# @param queue
 # @param server
 # @param r10k
 # @param config
